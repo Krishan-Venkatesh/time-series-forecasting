@@ -1,0 +1,690 @@
+[
+    {
+        "State": "Alabama",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 142553008.2009973,
+            "PROPHET": 185996629.52397853,
+            "XGBOOST": 78362058.9038383,
+            "LSTM": 119555108.11470589
+        },
+        "RMSE_Scores": {
+            "SARIMA": 11939.55644908961,
+            "PROPHET": 13638.058128779865,
+            "XGBOOST": 8852.234684182198,
+            "LSTM": 10934.125850506107
+        }
+    },
+    {
+        "State": "Arizona",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 148002309.53513855,
+            "PROPHET": 196038103.421863,
+            "XGBOOST": 89654006.74130435,
+            "LSTM": 114655913.24411765
+        },
+        "RMSE_Scores": {
+            "SARIMA": 12165.619981535612,
+            "PROPHET": 14001.360770363108,
+            "XGBOOST": 9468.57997491199,
+            "LSTM": 10707.750148566114
+        }
+    },
+    {
+        "State": "Arkansas",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 76452223.58960807,
+            "PROPHET": 99962389.10344835,
+            "XGBOOST": 43441813.70985054,
+            "LSTM": 65318693.705882356
+        },
+        "RMSE_Scores": {
+            "SARIMA": 8743.696220112412,
+            "PROPHET": 9998.119278316715,
+            "XGBOOST": 6591.040411790125,
+            "LSTM": 8081.998125827694
+        }
+    },
+    {
+        "State": "California",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 566209667.6647174,
+            "PROPHET": 756217867.2787191,
+            "XGBOOST": 371691493.6636957,
+            "LSTM": 487872570.87750006
+        },
+        "RMSE_Scores": {
+            "SARIMA": 23795.160593379434,
+            "PROPHET": 27499.41576249792,
+            "XGBOOST": 19279.302208941477,
+            "LSTM": 22087.837623395822
+        }
+    },
+    {
+        "State": "Colorado",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 117448054.66801724,
+            "PROPHET": 159300845.51924008,
+            "XGBOOST": 67406848.1673913,
+            "LSTM": 99787669.80588236
+        },
+        "RMSE_Scores": {
+            "SARIMA": 10837.345369970324,
+            "PROPHET": 12621.443876167263,
+            "XGBOOST": 8210.167365370287,
+            "LSTM": 9989.377848789301
+        }
+    },
+    {
+        "State": "Connecticut",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 62847423.76048295,
+            "PROPHET": 80030719.93081054,
+            "XGBOOST": 33107971.907880437,
+            "LSTM": 52248427.738235295
+        },
+        "RMSE_Scores": {
+            "SARIMA": 7927.636707145639,
+            "PROPHET": 8945.989041509638,
+            "XGBOOST": 5753.952720337597,
+            "LSTM": 7228.30739096196
+        }
+    },
+    {
+        "State": "Florida",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 492510845.0659538,
+            "PROPHET": 639103933.0890831,
+            "XGBOOST": 298735571.6543478,
+            "LSTM": 416738563.9676471
+        },
+        "RMSE_Scores": {
+            "SARIMA": 22192.585362367176,
+            "PROPHET": 25280.505000673602,
+            "XGBOOST": 17283.968631490505,
+            "LSTM": 20414.17556424082
+        }
+    },
+    {
+        "State": "Georgia",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 252320119.43772888,
+            "PROPHET": 345111993.5840332,
+            "XGBOOST": 159470540.93695652,
+            "LSTM": 211422994.49705884
+        },
+        "RMSE_Scores": {
+            "SARIMA": 15884.587480879976,
+            "PROPHET": 18577.190142323278,
+            "XGBOOST": 12628.164590982988,
+            "LSTM": 14540.391827494155
+        }
+    },
+    {
+        "State": "Illinois",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 212761843.2026866,
+            "PROPHET": 283607233.36417806,
+            "XGBOOST": 122157175.71521738,
+            "LSTM": 168851768.7529412
+        },
+        "RMSE_Scores": {
+            "SARIMA": 14586.358119924473,
+            "PROPHET": 16840.642308539722,
+            "XGBOOST": 11052.473737368362,
+            "LSTM": 12994.297547499102
+        }
+    },
+    {
+        "State": "Indiana",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 154166149.62538052,
+            "PROPHET": 200032277.33286178,
+            "XGBOOST": 78825655.06365488,
+            "LSTM": 109768628.90294117
+        },
+        "RMSE_Scores": {
+            "SARIMA": 12416.366200518592,
+            "PROPHET": 14143.276753739276,
+            "XGBOOST": 8878.381331281895,
+            "LSTM": 10477.052491180006
+        }
+    },
+    {
+        "State": "Iowa",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 79382995.4186469,
+            "PROPHET": 102559964.57249138,
+            "XGBOOST": 47349529.298369564,
+            "LSTM": 60614195.57058823
+        },
+        "RMSE_Scores": {
+            "SARIMA": 8909.713543018479,
+            "PROPHET": 10127.189371809503,
+            "XGBOOST": 6881.099425118748,
+            "LSTM": 7785.511901640652
+        }
+    },
+    {
+        "State": "Kansas",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 61968838.87968125,
+            "PROPHET": 79786715.57514565,
+            "XGBOOST": 34830924.55625,
+            "LSTM": 51065765.04705882
+        },
+        "RMSE_Scores": {
+            "SARIMA": 7872.028892203156,
+            "PROPHET": 8932.340990756324,
+            "XGBOOST": 5901.773001077727,
+            "LSTM": 7146.031419400479
+        }
+    },
+    {
+        "State": "Kentucky",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 118485417.56448545,
+            "PROPHET": 153319709.86604503,
+            "XGBOOST": 68293224.21086957,
+            "LSTM": 84247755.90294117
+        },
+        "RMSE_Scores": {
+            "SARIMA": 10885.100714485165,
+            "PROPHET": 12382.233638001062,
+            "XGBOOST": 8263.971455109799,
+            "LSTM": 9178.65763077266
+        }
+    },
+    {
+        "State": "Louisiana",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 124438401.77044196,
+            "PROPHET": 161395425.62962398,
+            "XGBOOST": 71610224.74184783,
+            "LSTM": 102504979.1764706
+        },
+        "RMSE_Scores": {
+            "SARIMA": 11155.196178034788,
+            "PROPHET": 12704.149937308832,
+            "XGBOOST": 8462.282478258914,
+            "LSTM": 10124.474266670373
+        }
+    },
+    {
+        "State": "Maine",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 33336617.008998867,
+            "PROPHET": 43866402.74903045,
+            "XGBOOST": 17321689.105434783,
+            "LSTM": 24305085.9
+        },
+        "RMSE_Scores": {
+            "SARIMA": 5773.787059547561,
+            "PROPHET": 6623.171653296512,
+            "XGBOOST": 4161.933337456859,
+            "LSTM": 4930.018853919323
+        }
+    },
+    {
+        "State": "Maryland",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 109481013.41978994,
+            "PROPHET": 147101946.6420103,
+            "XGBOOST": 60345075.943478264,
+            "LSTM": 87687419.30294117
+        },
+        "RMSE_Scores": {
+            "SARIMA": 10463.317515004022,
+            "PROPHET": 12128.559132972487,
+            "XGBOOST": 7768.2093138302,
+            "LSTM": 9364.156091337925
+        }
+    },
+    {
+        "State": "Massachusetts",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 123237479.32940578,
+            "PROPHET": 163452030.76058075,
+            "XGBOOST": 70203549.46304348,
+            "LSTM": 92846149.87058823
+        },
+        "RMSE_Scores": {
+            "SARIMA": 11101.237738622021,
+            "PROPHET": 12784.83596924813,
+            "XGBOOST": 8378.755842190621,
+            "LSTM": 9635.67070164751
+        }
+    },
+    {
+        "State": "Michigan",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 205236504.90008393,
+            "PROPHET": 267431406.5438486,
+            "XGBOOST": 108720049.07364132,
+            "LSTM": 171324444.8764706
+        },
+        "RMSE_Scores": {
+            "SARIMA": 14326.077791917924,
+            "PROPHET": 16353.330136209219,
+            "XGBOOST": 10426.890671415007,
+            "LSTM": 13089.096411764664
+        }
+    },
+    {
+        "State": "Minnesota",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 108990176.17658138,
+            "PROPHET": 138378437.24187016,
+            "XGBOOST": 59865362.48695654,
+            "LSTM": 95091173.14117648
+        },
+        "RMSE_Scores": {
+            "SARIMA": 10439.836022494865,
+            "PROPHET": 11763.436455469557,
+            "XGBOOST": 7737.270997383802,
+            "LSTM": 9751.470306634608
+        }
+    },
+    {
+        "State": "Mississippi",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 85662406.0911253,
+            "PROPHET": 114511140.19667481,
+            "XGBOOST": 46370572.16086957,
+            "LSTM": 65747194.32058822
+        },
+        "RMSE_Scores": {
+            "SARIMA": 9255.39875376125,
+            "PROPHET": 10700.987814060663,
+            "XGBOOST": 6809.594126001165,
+            "LSTM": 8108.464362663761
+        }
+    },
+    {
+        "State": "Missouri",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 136995590.67966598,
+            "PROPHET": 176154901.8560187,
+            "XGBOOST": 72395667.92282608,
+            "LSTM": 97516168.24411763
+        },
+        "RMSE_Scores": {
+            "SARIMA": 11704.511552374408,
+            "PROPHET": 13272.335960787712,
+            "XGBOOST": 8508.564386712136,
+            "LSTM": 9875.027505992965
+        }
+    },
+    {
+        "State": "Nebraska",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 41736828.6853992,
+            "PROPHET": 54957996.0094893,
+            "XGBOOST": 22925370.67404891,
+            "LSTM": 34990519.30294118
+        },
+        "RMSE_Scores": {
+            "SARIMA": 6460.4046843366705,
+            "PROPHET": 7413.36603773814,
+            "XGBOOST": 4788.044556397623,
+            "LSTM": 5915.278463685474
+        }
+    },
+    {
+        "State": "Nevada",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 69959077.24439041,
+            "PROPHET": 91943325.47458272,
+            "XGBOOST": 39739175.1017663,
+            "LSTM": 61296957.06764706
+        },
+        "RMSE_Scores": {
+            "SARIMA": 8364.154305390977,
+            "PROPHET": 9588.708227628094,
+            "XGBOOST": 6303.901577734721,
+            "LSTM": 7829.2373234975485
+        }
+    },
+    {
+        "State": "New Hampshire",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 37430098.64233313,
+            "PROPHET": 50660394.52298178,
+            "XGBOOST": 21039730.864538047,
+            "LSTM": 30245386.329411767
+        },
+        "RMSE_Scores": {
+            "SARIMA": 6118.0142728121455,
+            "PROPHET": 7117.611574326164,
+            "XGBOOST": 4586.90863921858,
+            "LSTM": 5499.580559407396
+        }
+    },
+    {
+        "State": "New Mexico",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 49994056.65170683,
+            "PROPHET": 64562316.88963632,
+            "XGBOOST": 30808893.471739136,
+            "LSTM": 40833731.15294118
+        },
+        "RMSE_Scores": {
+            "SARIMA": 7070.647541187924,
+            "PROPHET": 8035.067945551943,
+            "XGBOOST": 5550.575958559538,
+            "LSTM": 6390.127631975842
+        }
+    },
+    {
+        "State": "New York",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 307635249.0115429,
+            "PROPHET": 388542274.1358374,
+            "XGBOOST": 149608267.62826088,
+            "LSTM": 224851912.82352942
+        },
+        "RMSE_Scores": {
+            "SARIMA": 17539.533888092436,
+            "PROPHET": 19711.47569655396,
+            "XGBOOST": 12231.445851912229,
+            "LSTM": 14995.062948301666
+        }
+    },
+    {
+        "State": "North Carolina",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 234125436.4429472,
+            "PROPHET": 321500617.5088838,
+            "XGBOOST": 139982650.0195652,
+            "LSTM": 192236023.44705886
+        },
+        "RMSE_Scores": {
+            "SARIMA": 15301.158009867986,
+            "PROPHET": 17930.438296619628,
+            "XGBOOST": 11831.426372993461,
+            "LSTM": 13864.92060731178
+        }
+    },
+    {
+        "State": "Ohio",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 257895147.6183084,
+            "PROPHET": 334880115.8411523,
+            "XGBOOST": 141178755.3141304,
+            "LSTM": 207711736.01470587
+        },
+        "RMSE_Scores": {
+            "SARIMA": 16059.114160448216,
+            "PROPHET": 18299.72993902239,
+            "XGBOOST": 11881.866659499694,
+            "LSTM": 14412.207881331226
+        }
+    },
+    {
+        "State": "Oklahoma",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 100289898.1079438,
+            "PROPHET": 128208558.95462061,
+            "XGBOOST": 55978057.38695651,
+            "LSTM": 81842575.59705882
+        },
+        "RMSE_Scores": {
+            "SARIMA": 10014.484415482597,
+            "PROPHET": 11322.921838228003,
+            "XGBOOST": 7481.84852739993,
+            "LSTM": 9046.688653704117
+        }
+    },
+    {
+        "State": "Oregon",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 78104485.56124263,
+            "PROPHET": 103502834.93556686,
+            "XGBOOST": 44989131.09347826,
+            "LSTM": 61340758.38823529
+        },
+        "RMSE_Scores": {
+            "SARIMA": 8837.67421674066,
+            "PROPHET": 10173.634303215684,
+            "XGBOOST": 6707.393763115318,
+            "LSTM": 7832.034115619983
+        }
+    },
+    {
+        "State": "Pennsylvania",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 246532001.8034223,
+            "PROPHET": 326400598.1745644,
+            "XGBOOST": 124354217.88913044,
+            "LSTM": 187557691.72647062
+        },
+        "RMSE_Scores": {
+            "SARIMA": 15701.337580073307,
+            "PROPHET": 18066.560219769683,
+            "XGBOOST": 11151.422236160302,
+            "LSTM": 13695.170379607207
+        }
+    },
+    {
+        "State": "Rhode Island",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 18416486.59412231,
+            "PROPHET": 23794486.925709654,
+            "XGBOOST": 10502715.095380437,
+            "LSTM": 15024621.717647059
+        },
+        "RMSE_Scores": {
+            "SARIMA": 4291.4434161622485,
+            "PROPHET": 4877.959299308437,
+            "XGBOOST": 3240.7892704371316,
+            "LSTM": 3876.1606929598597
+        }
+    },
+    {
+        "State": "South Carolina",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 136115398.0281084,
+            "PROPHET": 174140763.7318809,
+            "XGBOOST": 76203731.54008153,
+            "LSTM": 100136201.0647059
+        },
+        "RMSE_Scores": {
+            "SARIMA": 11666.85039023422,
+            "PROPHET": 13196.240515081592,
+            "XGBOOST": 8729.474871954299,
+            "LSTM": 10006.80773597184
+        }
+    },
+    {
+        "State": "South Dakota",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 20135946.150555123,
+            "PROPHET": 26219024.93835223,
+            "XGBOOST": 11669597.800985053,
+            "LSTM": 15196385.376470586
+        },
+        "RMSE_Scores": {
+            "SARIMA": 4487.309455626514,
+            "PROPHET": 5120.451634216676,
+            "XGBOOST": 3416.0793025023663,
+            "LSTM": 3898.2541446743294
+        }
+    },
+    {
+        "State": "Tennessee",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 181235519.50972253,
+            "PROPHET": 235614800.7202834,
+            "XGBOOST": 101729863.51956522,
+            "LSTM": 145807075.75588238
+        },
+        "RMSE_Scores": {
+            "SARIMA": 13462.374215186655,
+            "PROPHET": 15349.749207080988,
+            "XGBOOST": 10086.122323250162,
+            "LSTM": 12075.060072557915
+        }
+    },
+    {
+        "State": "Texas",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 577119250.5890568,
+            "PROPHET": 767585759.093727,
+            "XGBOOST": 325000015.73956525,
+            "LSTM": 461220791.6864706
+        },
+        "RMSE_Scores": {
+            "SARIMA": 24023.306404178773,
+            "PROPHET": 27705.338097444812,
+            "XGBOOST": 18027.756813856937,
+            "LSTM": 21476.051585113837
+        }
+    },
+    {
+        "State": "Utah",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 57927402.494440936,
+            "PROPHET": 76006293.3166642,
+            "XGBOOST": 33436176.608763587,
+            "LSTM": 44796387.84411765
+        },
+        "RMSE_Scores": {
+            "SARIMA": 7611.005353725678,
+            "PROPHET": 8718.158826074701,
+            "XGBOOST": 5782.402321592955,
+            "LSTM": 6693.010372330051
+        }
+    },
+    {
+        "State": "Vermont",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 12922599.256905193,
+            "PROPHET": 16919724.4874353,
+            "XGBOOST": 7077005.406182065,
+            "LSTM": 9373012.179411765
+        },
+        "RMSE_Scores": {
+            "SARIMA": 3594.801699246454,
+            "PROPHET": 4113.359270406038,
+            "XGBOOST": 2660.2641609776397,
+            "LSTM": 3061.5375515272985
+        }
+    },
+    {
+        "State": "Virginia",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 188932215.18709058,
+            "PROPHET": 257797297.0915665,
+            "XGBOOST": 103950503.1152174,
+            "LSTM": 172664856.10588238
+        },
+        "RMSE_Scores": {
+            "SARIMA": 13745.26155397163,
+            "PROPHET": 16056.06729842543,
+            "XGBOOST": 10195.611953934762,
+            "LSTM": 13140.200002506901
+        }
+    },
+    {
+        "State": "Washington",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 123241967.01081435,
+            "PROPHET": 168423685.97288635,
+            "XGBOOST": 74740423.77554348,
+            "LSTM": 106725140.80882353
+        },
+        "RMSE_Scores": {
+            "SARIMA": 11101.439862054578,
+            "PROPHET": 12977.815146352115,
+            "XGBOOST": 8645.25440779758,
+            "LSTM": 10330.78606926034
+        }
+    },
+    {
+        "State": "West Virginia",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 50720030.3872162,
+            "PROPHET": 65817151.868191354,
+            "XGBOOST": 26644622.629076086,
+            "LSTM": 44912647.98529412
+        },
+        "RMSE_Scores": {
+            "SARIMA": 7121.799659300745,
+            "PROPHET": 8112.777074972007,
+            "XGBOOST": 5161.842948896846,
+            "LSTM": 6701.689935030874
+        }
+    },
+    {
+        "State": "Wisconsin",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 109780852.37587929,
+            "PROPHET": 140787998.10249346,
+            "XGBOOST": 57968651.717391305,
+            "LSTM": 86171826.5117647
+        },
+        "RMSE_Scores": {
+            "SARIMA": 10477.635819968133,
+            "PROPHET": 11865.411838722392,
+            "XGBOOST": 7613.714712109412,
+            "LSTM": 9282.878137289355
+        }
+    },
+    {
+        "State": "Wyoming",
+        "Best_Model": "XGBOOST",
+        "MAE_Scores": {
+            "SARIMA": 14938934.920736512,
+            "PROPHET": 20229967.783897456,
+            "XGBOOST": 8774664.305434782,
+            "LSTM": 12440361.876470588
+        },
+        "RMSE_Scores": {
+            "SARIMA": 3865.0918385901923,
+            "PROPHET": 4497.773647472431,
+            "XGBOOST": 2962.2059863275513,
+            "LSTM": 3527.0897176667604
+        }
+    }
+]
